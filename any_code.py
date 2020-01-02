@@ -1,7 +1,5 @@
 from tkinter import *
-import time
 
-time_count = 10
 count = 0
 
 window = Tk()
